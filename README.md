@@ -72,20 +72,9 @@ I build secure, scalable applications that connect business goals to measurable 
 - `Data & BI`: ETL Pipelines, Airflow, Apache Spark, Power BI, Tableau, Looker Studio, BigQuery
 - `Workflow`: Agile, Scrum, Jira, Confluence, stakeholder collaboration
 
-## Selected Engineering Impact
 
-- Improved client operational efficiency by up to 35% through optimized full-stack application architecture.
-- Integrated AI/ML-powered features that increased data-driven decision accuracy by 28%.
-- Automated deployment pipelines with Jenkins + Docker, reducing deployment time by 40%.
-- Built analytics and reporting systems used across 150+ venues, reducing decision latency by 25%.
-- Refactored legacy SQL/reporting workloads, cutting report generation time by up to 60%.
 
 ## Education
 
 - `M.S. Information Systems` - Trine University
 - `B.S. Computer Science` - Drexel University
-
-## Connect
-
-- LinkedIn: [linkedin.com/in/usmaniumair](https://www.linkedin.com/in/usmaniumair/)
-- Email: `umaiir.usmanii@gmail.com`
