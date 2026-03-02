@@ -80,11 +80,6 @@ I build secure, scalable applications that connect business goals to measurable 
 - Built analytics and reporting systems used across 150+ venues, reducing decision latency by 25%.
 - Refactored legacy SQL/reporting workloads, cutting report generation time by up to 60%.
 
-## GitHub Stats
-
-![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmaniumair&show_icons=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaniumair&layout=compact)
-
 ## Education
 
 - `M.S. Information Systems` - Trine University
