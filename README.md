@@ -20,6 +20,19 @@ I build secure, scalable applications that connect business goals to measurable 
 
 ## Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 - `Languages`: Python, JavaScript, TypeScript, SQL, Java
 - `Frontend`: React, Next.js, HTML5, CSS3, Bootstrap, Redux, Context API
 - `Backend`: Node.js, Express.js, REST APIs, WebSockets, JWT, OAuth 2.0
@@ -35,6 +48,11 @@ I build secure, scalable applications that connect business goals to measurable 
 - Automated deployment pipelines with Jenkins + Docker, reducing deployment time by 40%.
 - Built analytics and reporting systems used across 150+ venues, reducing decision latency by 25%.
 - Refactored legacy SQL/reporting workloads, cutting report generation time by up to 60%.
+
+## GitHub Stats
+
+![Umair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmaniumair&show_icons=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmaniumair&layout=compact)
 
 ## Education
 
